@@ -23,7 +23,7 @@ Work experience
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
-  * Github University
+  * TsingHua University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
