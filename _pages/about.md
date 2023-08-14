@@ -12,7 +12,7 @@ I am a PhD student in Department of Astronomy, Tsinghua University. My main rese
 
 My recent research works
 ======
-1. ***<u>Isotropic two-point statistics.</u>*** The two-point correlation function(2PCF) is a fundamental tool used in cosmology to study the large-scale structure of the universe by measuring how matter is clustered. Traditional 2PCF is obtained by dividing the distance range into spherical shells and calculating the density correlation within each shell. If we replace the spherical shells with an anisotropic shape(e.g a cylinder) , for correlation analysis, can it provide us with more cosmological information? We will use a fast algorithm called 'MRA-CS'(Feng, 2004), which enable us to explore the two point or higher order statistics efficiently in large data sets, to accomplish this task. For more information on this work, Please [click here](https://www.baidu.com).
+1. ***<u>Isotropic two-point statistics.</u>***:The two-point correlation function(2PCF) is a fundamental tool used in cosmology to study the large-scale structure of the universe by measuring how matter is clustered. Traditional 2PCF is obtained by dividing the distance range into spherical shells and calculating the density correlation within each shell. If we replace the spherical shells with an anisotropic shape(e.g a cylinder) , for correlation analysis, can it provide us with more cosmological information? We will use a fast algorithm called 'MRA-CS'(Feng, 2004), which enable us to explore the two point or higher order statistics efficiently in large data sets, to accomplish this task. For more information on this work, Please [click here](https://www.baidu.com).
 
 Getting started
 ======
