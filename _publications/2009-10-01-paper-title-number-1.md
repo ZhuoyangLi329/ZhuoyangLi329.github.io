@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "A More Accurate Parameterization based on cosmic Age (MAPAge)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2021
+venue: 'RAA'
+paperurl: '[2108.03959](https://arxiv.org/abs/2108.03959)'
 ---
+[Download](https://arxiv.org/abs/2108.03959)
 
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 
