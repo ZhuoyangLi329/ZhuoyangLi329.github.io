@@ -6,7 +6,7 @@ date: 2021-08-09
 venue: 'RAA'
 paperurl: 'https://arxiv.org/abs/2108.03959'
 ---
-Lu Huang, Zhiqi Huang, Zhuoyang Li, Huan Zhou
+**Authers: Lu Huang, Zhiqi Huang, Zhuoyang Li, Huan Zhou**
 
 
 
