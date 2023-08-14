@@ -23,10 +23,10 @@ Basic mathematics, physics, python, half C++
 
 Other Interests
 ------
-1.Using a variety of electronic products, from different types to different manufacturers.
-2.Purchase various pens.
-3.Ping-Pong
-4.Purchase Fumos
+1. Using a variety of electronic products, from different types to different manufacturers.
+2. Purchase various pens.
+3. Ping-Pong
+4. Purchase Fumos
 
 
 For more info
