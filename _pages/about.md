@@ -27,6 +27,7 @@ Other Interests
 - Purchase various pens.
 - Ping-Pong
 - Purchase Fumos
+- Cafe
 
 
 For more info
