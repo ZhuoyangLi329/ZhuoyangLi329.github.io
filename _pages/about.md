@@ -23,10 +23,10 @@ Skills
 
 Other Interests
 ------
-1. Using a variety of electronic products, from different types to different manufacturers.
-2. Purchase various pens.
-3. Ping-Pong
-4. Purchase Fumos
+- Using a variety of electronic products, from different types to different manufacturers.
+- Purchase various pens.
+- Ping-Pong
+- Purchase Fumos
 
 
 For more info
