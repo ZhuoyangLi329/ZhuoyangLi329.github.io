@@ -7,7 +7,3 @@ redirect_from:
   - /markdown.html
 ---
 
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
