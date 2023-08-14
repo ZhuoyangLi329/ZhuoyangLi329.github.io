@@ -18,8 +18,8 @@ My recent research works
 
 Skills
 ======
-Basic mathematics, physics, python, half C++
-**Skills to be learned in the future**: The mathematics courses in a mathematics major and the advanced theoretical physics courses
+- Basic mathematics, physics, python, half C++
+- **Skills to be learned in the future**: The mathematics courses in a mathematics major and the advanced theoretical physics courses
 
 Other Interests
 ------
