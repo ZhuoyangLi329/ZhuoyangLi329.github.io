@@ -6,7 +6,7 @@ date: 2000-01-01
 venue: 'The paper is still in preparation'
 paperurl: 'https://arxiv.org/'
 ---
-**Authers: Zhuoyang Li, Yi Zheng**  
+<font color="#dd0000">Authers: Zhuoyang Li, Yi Zheng </font><br />  
 **The paper is still in preparation**
 
 
