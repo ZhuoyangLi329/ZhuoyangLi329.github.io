@@ -1,4 +1,4 @@
-![aboutme_fumo](/images/aboutme_fumo.jpg)
+![aboutme_fumo](/images/aboutme_fumo.png)
 ---
 permalink: /
 title: "About me"
