@@ -6,7 +6,7 @@ date: 2022-10-06
 venue: 'MNRAS'
 paperurl: 'https://arxiv.org/abs/2210.02816'
 ---
-Zhuoyang Li, Lu Huang, Junchao Wang
+**Authers: Zhuoyang Li, Lu Huang, Junchao Wang**
 
 
 
