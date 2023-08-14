@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Editing a markdown file for a talk](/images/aboutme_fumo.jpg)
+![aboutme_fumo](/images/aboutme_fumo.jpg)
 I am a PhD student in Department of Astronomy, Tsinghua University. My main research interest is cosmology. I am currently conducting research under the supervision of Prof. Cheng Li
 
 My recent research works
